@@ -3,7 +3,7 @@ Predict customers' response to the marketing champaign
 ======================================================
   
 ![customers](./images/shopping.jpg)
-# 1. Introduction
+# 2. Introduction
 
 
 Customer personality analysis is an interesting topic for companies. The dataset is from a competition on Kaggle. To 
@@ -19,10 +19,10 @@ distribution of independent features and their relations to the dependent featur
 session split data into train/test datasets, trained and tuned 5 different machine learning models. In the last session,
  select the best model based on the metric ‘roc_auc” score, refit the model using all available data and predict the 
 customers’ response.
-# 2. Data Cleaning and Wrangling
+## 2. Data Cleaning and Wrangling
 
-# 3. Exploratory Data Analysis
+## 3. Exploratory Data Analysis
 
-# 4. Preporcessing and Training
+## 4. Preporcessing and Training
 
-# 5. Modeling
+## 5. Modeling
