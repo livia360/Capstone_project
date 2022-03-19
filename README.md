@@ -25,6 +25,15 @@ customers’ response.
 # 3. Exploratory Data Analysis
 
 # 4. Preporcessing and Training
+  
+
+|Models|ROC_AUC|
+| :---: | :---: |
+|LogisticRegression|0.8531198640887856|
+|RandomForestClassifier|0.8528982697172824|
+|KNeighborsClassifier|0.8089764186656325|
+|GradientBoostingClassifier|0.821228740789984|
+|XGBClassifier|0.827285653611065|
 
 # 5. Modeling
   
