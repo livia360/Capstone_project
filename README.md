@@ -13,9 +13,12 @@ the marketing campaign, accepting the offer or not.
 
 
 The capstone project contains four parts: data cleaning, exploratory data analysis, preprocessing, final model selection
- and prediction. The exploratory data analysis includes filling in null values, removing less useful features, and 
-organizing the categories within the features. The preprocessing section will split data into train/test tests and train
- 5 different ML models on the data. In the last session, select the best model and predict.
+ and prediction.The data cleaning includes filling in null values, removing less useful features, and organizing the 
+categories within the features. EDA is using visualization tools, like bar plots and histograms to look at the 
+distribution of independent features and their relations to the dependent feature. The preprocessing and training 
+session split data into train/test datasets, trained and tuned 5 different machine learning models. In the last session,
+ select the best model based on the metric ‘roc_auc” score, refit the model using all available data and predict the 
+customers’ response.
 # 2. Data Cleaning and Wrangling
 
 # 3. Exploratory Data Analysis
