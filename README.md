@@ -31,6 +31,7 @@ customers’ response.
 The total results of the marketing champaign from 1 to 6 in the data  
   
 ![Total expenses](./images/total_expenses1.jpg)  
+![Days_enrolled](./images/days_enrolled.jpg)  
 ![PCA](./images/pca.jpg)
 
 **The first two components account for about 60% of the variance, and the first five for over 95%.**   
