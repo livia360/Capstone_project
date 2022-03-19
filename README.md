@@ -30,9 +30,7 @@ customers’ response.
 ![Total expenses](./images/total_expenses1.jpg)  
 ![PCA](./images/pca.jpg)
 
-**The first two components account for about 60% of the variance, and the first five for over 95%.** 
-
-``[image](path)``  
+**The first two components account for about 60% of the variance, and the first five for over 95%.**   
   
 ![PCA colored by Total expenses](./images/pca2.jpg)
 # 4. Preporcessing and Training
