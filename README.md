@@ -27,3 +27,5 @@ customers’ response.
 # 4. Preporcessing and Training
 
 # 5. Modeling
+  
+![top 5 important features](./images/important_features.jpg)
