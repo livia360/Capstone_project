@@ -23,7 +23,10 @@ customers’ response.
 # 2. Data Cleaning and Wrangling
 
 # 3. Exploratory Data Analysis
-
+  
+![total expenses](./images/total_expenses1.jpg)  
+![PCA](./images/pca.jpg)  
+![PCA colored by total expenses](./images/pca2.jpg)
 # 4. Preporcessing and Training
   
 
