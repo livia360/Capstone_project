@@ -22,9 +22,11 @@ session split data into train/test datasets, trained and tuned 5 different machi
 customers’ response.
 # 2. Data Cleaning and Wrangling
   
-![Expenses per Products](./images/expenses.jpg)
+![Expenses per Products](./images/expenses.jpg)  
+![Expenses per Age](./images/expenses2.jpg)
 # 3. Exploratory Data Analysis
   
+![Six marketing champaign](./images/campaign.jpg)  
 ![Total expenses](./images/total_expenses1.jpg)  
 ![PCA](./images/pca.jpg)  
 ![PCA colored by Total expenses](./images/pca2.jpg)
