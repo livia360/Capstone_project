@@ -32,7 +32,7 @@ customers’ response.
 
 **The first two components account for about 60% of the variance, and the first five for over 95%.** 
 
-``[image](./images/pca.jpg)``  
+``[image](path)``  
   
 ![PCA colored by Total expenses](./images/pca2.jpg)
 # 4. Preporcessing and Training
