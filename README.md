@@ -30,7 +30,8 @@ customers’ response.
 ![Total expenses](./images/total_expenses1.jpg)  
 ![PCA](./images/pca.jpg)
 
-The first two components account for about 60% of the variance, and the first five for over 95%.  
+**The first two components account for about 60% of the variance, and the first five for over 95%.** ``[im]``  
+![PCA][im]  
 ![PCA colored by Total expenses](./images/pca2.jpg)
 # 4. Preporcessing and Training
   
@@ -46,3 +47,6 @@ The first two components account for about 60% of the variance, and the first fi
 # 5. Modeling
   
 ![top 5 important features](./images/important_features.jpg)
+
+
+[im]: ./images/pca.jpg
