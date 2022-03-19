@@ -21,12 +21,13 @@ session split data into train/test datasets, trained and tuned 5 different machi
  select the best model based on the metric ‘roc_auc” score, refit the model using all available data and predict the 
 customers’ response.
 # 2. Data Cleaning and Wrangling
-
+  
+![Expenses per Products](./images/expenses.jpg)
 # 3. Exploratory Data Analysis
   
-![total expenses](./images/total_expenses1.jpg)  
+![Total expenses](./images/total_expenses1.jpg)  
 ![PCA](./images/pca.jpg)  
-![PCA colored by total expenses](./images/pca2.jpg)
+![PCA colored by Total expenses](./images/pca2.jpg)
 # 4. Preporcessing and Training
   
 
