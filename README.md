@@ -33,6 +33,11 @@ customers’ response.
 **The first two components account for about 60% of the variance, and the first five for over 95%.**   
   
 ![PCA colored by Total expenses](./images/pca2.jpg)
+
+The red points representing the upper quartile of 'TotalExpense' and it spreads across the first dimension. There's also
+ a spread of the other quartiles as well.In this representation, the two principal components account for some 60% of 
+the variance in the data.  
+
 # 4. Preporcessing and Training
   
 
