@@ -1,14 +1,6 @@
 
-Predict Customers' response to the marketing champaign
+Predict customer's response to the marketing champaign
 ======================================================
-
-Contents
-========
-
-* [Introduction](#introduction)
-* [Data Cleaning and Wrangling](#data-cleaning-and-wrangling)
-* [Exploratory Data Analysis](#exploratory-data-analysis)
-* [Modeling](#modeling)
 
 # Introduction
 
@@ -26,5 +18,7 @@ organizing the categories within the features. The preprocessing section will sp
 # Data Cleaning and Wrangling
 
 # Exploratory Data Analysis
+
+# Preporcessing and Training
 
 # Modeling
