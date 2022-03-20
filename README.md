@@ -7,7 +7,7 @@ Predict customers' response to the marketing champaign
 
 
 Customer personality analysis is an interesting topic for companies. The dataset is from a competition on Kaggle. To 
-practice and solve the binary classification problems, I have trained 5 machine learning models to this dataset to 
+practice and solve the binary classification problem, I have trained 5 machine learning models to this dataset to 
 predict the customers’ response to the marketing campaign, accepting the offer or not, and identified the important 
 influential features behind it.
 
@@ -28,7 +28,7 @@ customers’ response.
   
 ![Six marketing champaign](./images/campaign.jpg)
 
-The total results of the marketing champaign from 1 to 6 in the data  
+**The total results of the marketing champaign from 1 to 6 in the data**
   
 ![Total expenses](./images/total_expenses1.jpg)  
 ![Days_enrolled](./images/days_enrolled.jpg)  
@@ -42,7 +42,7 @@ The red points represent the upper quartile of 'TotalExpenses' and spread across
 spread of the other quartiles as well. In this representation, the two principal components account for some 60% of the 
 variance in the data.  
 
-# 4. Preporcessing and Training
+# 4. Preprocessing and Training
   
 
 |Models|ROC_AUC|
