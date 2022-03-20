@@ -38,9 +38,9 @@ The total results of the marketing champaign from 1 to 6 in the data
   
 ![PCA colored by Total expenses](./images/pca2.jpg)
 
-The red points representing the upper quartile of 'TotalExpenses' and it spreads across the first dimension. There's 
-also a spread of the other quartiles as well. In this representation, the two principal components account for some 60% 
-of the variance in the data.  
+The red points represent the upper quartile of 'TotalExpenses' and spread across the first dimension. There's also a 
+spread of the other quartiles as well. In this representation, the two principal components account for some 60% of the 
+variance in the data.  
 
 # 4. Preporcessing and Training
   
