@@ -20,10 +20,13 @@ distribution of independent features and their relations to the dependent featur
 session split data into train/test datasets, trained and tuned 5 different machine learning models. In the last session,
  select the best model based on the metric ‘roc_auc” score, refit the model using all available data and predict the 
 customers’ response.
+
 # 2. Data Cleaning and Wrangling
   
 ![Expenses per Products](./images/expenses.jpg)  
+
 ![Expenses per Age](./images/expenses2.jpg)
+
 # 3. Exploratory Data Analysis
   
 ![Six marketing champaign](./images/campaign.jpg)
