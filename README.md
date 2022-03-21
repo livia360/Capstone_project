@@ -47,7 +47,7 @@ The red points represent the upper quartile of 'TotalExpenses' and spread across
 spread of the other quartiles as well. In this representation, the two principal components account for about 60% of the 
 variance in the data.  
 
-# 4. Preprocessing and Training
+# 4. Preprocessing 
   
 
 |Models|ROC_AUC|
@@ -58,7 +58,7 @@ variance in the data.
 |GradientBoostingClassifier|0.821228740789984|
 |XGBClassifier|0.827285653611065|
 
-# 5. Modeling
+# 5. Training and Modeling
 
   
 ![top 5 important features](./images/important_features.jpg)
