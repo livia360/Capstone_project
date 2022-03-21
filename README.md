@@ -64,7 +64,5 @@ variance in the data.
 ![top 5 important features](./images/important_features.jpg)
 
 The final random forest model has average accuracy of 0.99 and a strong roc_auc of 0.85, and performs well on the unseen
- data. Besides, the random forest model is fast to train, easy to tune and not prone to overfitting.The analysis of 
-customers' family structures, income and spending behaviors can help business better plan marketing strategies, boost 
-new customer enrollment and potentially increase revenue. Further analysis about which features contribute most to customers' 
-total expenses may generate more insights from the data.
+data. Besides, the random forest model is fast to train, easy to tune and not prone to overfitting.The analysis of 
+customers' family structures, income and spending behaviors can help business understand how significant adding the last campaign is when they already have 5, better plan marketing strategies, boost new customer enrollment and potentially increase revenue. Further analysis about which features contribute most to customers' total expenses may generate more insights from the data.
