@@ -14,11 +14,8 @@ predict the customers’ response to the last 6th marketing campaign (accepting 
 
 The capstone project contains four parts: data cleaning, exploratory data analysis, preprocessing, final model selection
 and prediction. The data cleaning includes filling in null values, removing less useful features, and organizing the 
-categories within the features. EDA is using visualization tools, like bar plots and histograms to look at the 
-distribution of independent features and their relations to the dependent feature. The preprocessing and training 
-session split data into train/test datasets, trained and tuned 5 different machine learning models. In the last session,
-select the best model based on the metric ‘roc_auc” score, refit the model using all available data and predict the 
-customers’ response.
+categories within the features. EDA is using visualization tools, like bar plots and histograms to look at the distribution of independent features and their relations to the dependent feature. The preprocessing seesion converts categorical varialbes into numeric variables.
+In the last training and modeling session, first, split data into train/test datasets, trained and tuned 5 different machine learning models, and then select the best model based on the metric ‘roc_auc” score, and predict the customers’ response.
 
 # 2. Data Cleaning and Wrangling
 
