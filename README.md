@@ -8,7 +8,7 @@ Predict customers' response to the marketing champaign
 
 Customer personality analysis is an interesting topic for companies. The dataset is from a competition on Kaggle and collected between 2012 and 2014.
 To practice and solve the binary classification problem, I have trained 5 machine learning models to this dataset to 
-predict the customers’ response to the marketing campaign, accepting the offer or not, and identified the important 
+predict the customers’ response to the last 6th marketing campaign (accepting the offer or not) when we already have 5 campaigns, and identified the important 
 influential features behind it.
 
 
