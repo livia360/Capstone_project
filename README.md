@@ -45,6 +45,11 @@ The red points represent the upper quartile of 'TotalExpenses' and spread across
 
 # 5. Training and Modeling
 
+
+
+![top 5 important features](./images/important_features.jpg)
+
+
  
  |Models|ROC_AUC|
 | :---: | :---: |
@@ -54,10 +59,6 @@ The red points represent the upper quartile of 'TotalExpenses' and spread across
 |GradientBoostingClassifier|0.821228740789984|
 |XGBClassifier|0.827285653611065|
 
-
-
-
-![top 5 important features](./images/important_features.jpg)
 
  -  5 different supervised machine learning models are trained on the data. After comparing and evaluating the model performance, the final random forest model has an average accuracy of 0.88 and a strong roc_auc of 0.85 (consistent with cross validation roc of 0.83). Besides, the random forest model is fast to train, easy to tune and not prone to overfitting.
  - The analysis of customers' family structures, income and spending behaviors can help business understand how significant adding the last campaign is when they already have 5, better plan marketing strategies, boost new customer enrollment and potentially increase revenue. Further analysis about which features contribute most to customers' total expenses may generate more insights from the data.
