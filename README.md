@@ -30,6 +30,11 @@ The capstone project contains four parts: data cleaning, exploratory data analys
   
 ![Total expenses](./images/total_expenses1.jpg)  
 ![Days_enrolled](./images/days_enrolled.jpg)  
+
+
+# 4. Preprocessing 
+  
+
 ![PCA](./images/pca.jpg)
 
 **The first two components account for about 60% of the variance, and the first five for over 95%.**   
@@ -38,10 +43,10 @@ The capstone project contains four parts: data cleaning, exploratory data analys
 
 The red points represent the upper quartile of 'TotalExpenses' and spread across the first dimension. There's also a spread of the other quartiles as well. In this representation, the two principal components account for about 60% of the variance in the data.  
 
-# 4. Preprocessing 
-  
+# 5. Training and Modeling
 
-|Models|ROC_AUC|
+ 
+ |Models|ROC_AUC|
 | :---: | :---: |
 |LogisticRegression|0.8531198640887856|
 |RandomForestClassifier|0.8528982697172824|
@@ -49,9 +54,7 @@ The red points represent the upper quartile of 'TotalExpenses' and spread across
 |GradientBoostingClassifier|0.821228740789984|
 |XGBClassifier|0.827285653611065|
 
-# 5. Training and Modeling
 
-  
 ![top 5 important features](./images/important_features.jpg)
 
  -  5 different supervised machine learning models are trained on the data. After comparing and evaluating the model performance, the final random forest model has an average accuracy of 0.88 and a strong roc_auc of 0.85 (consistent with cross validation roc of 0.83). Besides, the random forest model is fast to train, easy to tune and not prone to overfitting.
