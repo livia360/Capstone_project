@@ -7,12 +7,12 @@ Predict customers' response to the marketing champaign
 
 
 Customer personality analysis is an interesting topic for companies. The dataset is from a competition on Kaggle and collected between 2012 and 2014.
-To practice and solve the binary classification problem, I have trained 5 machine learning models to this dataset to 
+To practice and solve the binary classification problem, this notebook has 5 different machine learning models trained on this dataset, in order to 
 predict the customers’ response to the last 6th marketing campaign (accepting the offer or not) when we already have 5 campaigns.
 
 
 
-The capstone project contains four parts: data cleaning, exploratory data analysis, preprocessing, final model selection and prediction. The data cleaning includes filling in null values, removing less useful features, and organizing the categories within the features. EDA is using visualization tools, like bar plots and histograms to look at the distribution of independent features and their relations to the dependent feature. The preprocessing session converts categorical varialbes into numeric variables. In the last training and modeling session, first, split data into train/test datasets, train and tune 5 different machine learning models, and then select the best model based on the metric ‘roc_auc” score, and predict the customers’ response.
+The capstone project contains four parts: data cleaning, exploratory data analysis, preprocessing, final model selection and prediction. The data cleaning session includes filling in null values, removing less useful features, and organizing the categories within the features. A thorouhg EDA session includes visualization of bar plots and histograms to see the distribution of independent features and their relations to the dependent feature. The preprocessing session converts categorical varialbes into numeric variables using one-hot encode. In the last modeling session, different models are trained on scaled train/test datasets with hyperparamter tuning, and evaluated based on ‘roc_auc” score, and then the final model is selected and used to predict the customers’ response.
 
 # 2. Data Cleaning and Wrangling
 
