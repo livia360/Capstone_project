@@ -7,8 +7,7 @@ Predict customers' response to the marketing champaign
 
 
 Customer personality analysis is an interesting topic for companies. The dataset is from a competition on Kaggle and collected between 2012 and 2014.
-To practice and solve the binary classification problem, this notebook has 5 different machine learning models trained on this dataset, in order to 
-predict the customers’ response to the last 6th marketing campaign (accepting the offer or not) when we already have 5 campaigns.
+To practice and solve the binary classification problem, this notebook has 5 different machine learning models to explore this dataset, and predict the customers’ response to the last 6th marketing campaign (accepting the offer or not) when we already have 5 campaigns.
 
 
 
