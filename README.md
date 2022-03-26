@@ -10,7 +10,7 @@ Customer personality analysis is an interesting topic for companies. The dataset
 
 
 
-The capstone project contains four parts: data cleaning, exploratory data analysis, preprocessing, final model selection and prediction. The data cleaning session includes filling in null values, removing less useful features, and organizing the categories within the features. A thorouhg EDA session includes visualization of bar plots and histograms to see the distribution of independent features and their relations to the dependent feature. The preprocessing session converts categorical varialbes into numeric variables using one-hot encode. In the last modeling session, different models are trained on scaled train/test datasets with hyperparamter tuning, and evaluated based on ‘roc_auc” score, and then the final model is selected and used to predict the customers’ response.
+The capstone project contains four parts: data cleaning, exploratory data analysis, preprocessing, final model selection and prediction. The data cleaning session includes filling in null values, removing less useful features, and organizing the categories within the features. A thorough EDA session includes visualization of bar plots and histograms to see the distribution of independent features and their relations to the dependent feature. The preprocessing session converts categorical varialbes into numeric variables using one-hot encode. In the last modeling session, different models are trained on scaled train/test datasets with hyperparamter tuning, and evaluated based on ‘roc_auc” score, and then the final model is selected and used to predict the customers’ response.
 
 # 2. Data Cleaning and Wrangling
 
