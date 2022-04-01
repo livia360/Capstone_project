@@ -59,7 +59,7 @@ The red points represent the upper quartile of 'TotalExpenses' and spread across
 
 **Comparison of roc_auc scores between the models.**  
 
-# 6. Summary and Futher work
+# 6. Summary and Further work
 
 
  - Five different supervised machine learning models are trained on the data. After comparing and evaluating the model performance, the final random forest model has an average accuracy of 0.88 and a strong roc_auc of 0.85 (consistent with cross validation roc of 0.83). Besides, the random forest model is fast to train, easy to tune and not prone to overfitting.
