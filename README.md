@@ -35,7 +35,7 @@ The capstone project contains four parts: data cleaning, exploratory data analys
 
 ![PCA](./images/pca.jpg)
 
-**The first two components account for about 60% of the variance, and the first five for over 95%.**   
+**The first two components account for about 40% of the variance, and the first five for over 75%.**   
   
 ![PCA colored by Total expenses](./images/pca2.jpg)
 
