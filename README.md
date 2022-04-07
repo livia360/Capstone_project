@@ -35,11 +35,11 @@ The capstone project contains four parts: data cleaning, exploratory data analys
 
 ![PCA](./images/pca.jpg)
 
-**The first two components account for about 40% of the variance, and the first five for over 75%.**   
+**The first two components account for about 47% of the variance, and the first five for over 80%.**   
   
 ![PCA colored by Total expenses](./images/pca2.jpg)
 
-The red points represent the upper quartile of 'TotalExpenses' and spread across the first dimension (>0). There's also a spread of the other quartiles as well. In this representation, the first two principal components explain about 40% of the variance exsiting in the data.  There appear separate groups in  the data.
+The red points represent the upper quartile of 'TotalExpenses' and spread across the first dimension (>0). There's also a spread of the other quartiles as well. In this representation, the first two principal components explain about 47% of the variance exsiting in the data.  There appear separate groups in  the data.
 
 # 5. Training and Modeling
 
