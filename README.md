@@ -6,7 +6,7 @@ Predict customers' response to the marketing champaign
 # 1. Introduction
 
 
-Customer personality analysis is an interesting topic for companies. The dataset is from a [public Kaggle competition](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis) and collected between 2012 and 2014. To solve a binary classification problem, this notebook has trained five different machine learning models to learn this dataset, and predicted the customers’ response to the last 6th marketing campaign (accepting the offer or not) when we already have 5 campaigns.
+Customer personality analysis is an interesting topic for companies. The dataset is from a [public Kaggle competition](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis) and was collected between 2012 and 2014. To solve a binary classification problem, this notebook has trained five different machine learning models to learn this dataset, and predicted the customers’ response to the last 6th marketing campaign (accepting the offer or not) when we already have 5 campaigns.
 
 
 
@@ -66,4 +66,4 @@ The red points represent the upper quartile of 'TotalExpenses' and spread across
  - The analysis of customers' family structures, income and spending behaviors can help business understand how significant adding the last campaign is when they already have 5, better plan marketing strategies, boost new customer enrollment and potentially increase revenue. Further analysis about which features contribute most to customers' total expenses may generate more insights from the data.
  - If we would have more details/data about the campaigns, like their time spans, feed into the model training, we may get a more accuate model and better prediction for the effectiveness of the champaign.
 
-[final presentation](https://github.com/livia360/Capstone_project/blob/11c0ef0a40490c130c53c241840a01eefdf78765/Capstone%20-%20Customer_Response%20.pdf)
+[final presentation](https://github.com/livia360/Capstone_project/blob/abf7c6490facc81151bf7a0c5ca040863d7a36ce/Capstone%20-%20Customer_Response%20.pdf)
