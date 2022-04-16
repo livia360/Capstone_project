@@ -66,4 +66,4 @@ The red points represent the upper quartile of 'TotalExpenses' and spread across
  - The analysis of customers' family structures, income and spending behaviors can help business understand how significant adding the last campaign is when they already have 5, better plan marketing strategies, boost new customer enrollment and potentially increase revenue. Further analysis about which features contribute most to customers' total expenses may generate more insights from the data.
  - If we would have more details/data about the campaigns, like their time spans, feed into the model training, we may get a more accuate model and better prediction for the effectiveness of the champaign.
 
-[final presentation](https://github.com/livia360/Capstone_project/blob/1db290122ea5f93dc4f8c7e52e68fecc168a4ee7/Capstone%20-%20Customer_Response%20.pdf)
+[final slides](https://github.com/livia360/Capstone_project/blob/d8503cd0620d44b257b3dba9e9c4c2473783aa97/Capstone%20-%20Customer_Response_final_deck.pdf)
