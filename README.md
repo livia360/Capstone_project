@@ -69,4 +69,4 @@ The red points represent the upper quartile of 'TotalExpenses' and spread across
 
 [final slides](https://github.com/livia360/Capstone_project/blob/d30158857a59a9eb7c7ef6819aeef7d5e81b7cad/Capstone_Customer_Response_final_deck.pdf)
 
-[final_report](https://github.com/livia360/Capstone_project/blob/9ed8a84d027dee167cc6e95db52bf80c89dab67f/Capston_project1_customer_responses_write_up.pdf)
+[final_report](https://github.com/livia360/Capstone_project/blob/0551857f47fac13c2001e24959e3391acbc69373/Capstone_project1_customer_responses_write_up.pdf)
