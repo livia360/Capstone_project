@@ -67,4 +67,5 @@ The red points represent the upper quartile of 'TotalExpenses' and spread across
  - If we would have more details/data about the campaigns, like their time spans, feed into the model training, we may get a more accuate model and better prediction for the effectiveness of the champaign.
 
 [final slides](https://github.com/livia360/Capstone_project/blob/d30158857a59a9eb7c7ef6819aeef7d5e81b7cad/Capstone_Customer_Response_final_deck.pdf)
-[final_report]()
+
+[final_report](https://github.com/livia360/Capstone_project/blob/9ed8a84d027dee167cc6e95db52bf80c89dab67f/Capston_project1_customer_responses_write_up.pdf)
