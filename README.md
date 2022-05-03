@@ -2,7 +2,7 @@
 Predict customers' response to the marketing champaign
 ======================================================
   
-![customers](./images/shopping.jpg)
+![customers](./images/shopping.jpg#center)
 # 1. Introduction
 
 
