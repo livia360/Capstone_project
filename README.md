@@ -2,7 +2,8 @@
 Predict customers' response to the marketing champaign
 ======================================================
   
-<img src="./images/shopping.jpg" alt="Customer" width="300" height="200"/>
+<img src="./images/shopping.jpg" alt="Customer" width="300" height="200"/> <br/>
+
 # 1. Introduction
 
 
