@@ -2,7 +2,7 @@
 Predict customers' response to the marketing champaign
 ======================================================
   
-![customers](./images/shopping.jpg#center)
+<img src="./images/shopping.jpg" alt="shopping" width="200"/>
 # 1. Introduction
 
 
