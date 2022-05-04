@@ -21,7 +21,7 @@ The capstone project contains four parts: data cleaning, exploratory data analys
 ![Expenses per Age](./images/expenses2.jpg)
 
 # 3. Exploratory Data Analysis
-
+[EDA](https://github.com/livia360/Capstone_project/blob/452a7e39e7e4302af91facd7b1ebd4ea4dc4a5d8/02_Exploratory_Data_Analysis.ipynb)
   
 ![Six marketing champaign](./images/campaign.jpg)
 
