@@ -11,7 +11,7 @@ Customer personality analysis is an interesting topic for companies. The dataset
 
 
 
-The capstone project contains four parts: data cleaning, exploratory data analysis, preprocessing, final model selection and prediction. The data cleaning session includes filling in null values, removing less useful features, and organizing the categories within the features. A thorough EDA session includes visualization of bar plots and histograms to see the distribution of independent features and their relations to the dependent feature. The preprocessing session converts categorical varialbes into numeric variables using one-hot encode. In the last modeling session, different models are trained on the scaled train/test datasets with hyperparamter tuning, and evaluated based on ‘roc_auc” scores, and then the final model is selected and used to predict the customers’ response (yes/no).
+The capstone project contains four parts: data cleaning, exploratory data analysis, preprocessing, final model selection and prediction. The data cleaning session includes filling in null values, removing less useful features, and organizing the categories within the features. A thorough EDA session includes visualization of bar plots and histograms to see the distribution of independent features and their relations to the dependent feature. The preprocessing session converts categorical varialbes into numeric variables using label encoding. In the last modeling session, different models are trained on the scaled train/test datasets with hyperparamter tuning, and evaluated based on ‘roc_auc” scores, and then the final model is selected and used to predict the customers’ response (yes/no).
 
 # 2. Data Cleaning and Wrangling
 
@@ -20,7 +20,7 @@ The capstone project contains four parts: data cleaning, exploratory data analys
 
 ![Expenses per Age](./images/expenses2.jpg)
 
-# 3. Exploratory Data Analysis
+# 3. Exploratory Data Analysis  [EDA](https://github.com/livia360/Capstone_project/blob/452a7e39e7e4302af91facd7b1ebd4ea4dc4a5d8/02_Exploratory_Data_Analysis.ipynb)
 
   
 ![Six marketing champaign](./images/campaign.jpg)
