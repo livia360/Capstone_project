@@ -44,7 +44,7 @@ The red points represent the upper quartile of 'TotalExpenses' and spread across
 
 # 5. Training and Modeling
 
-
+- Predictive variables
 
 ![top 5 important features](./images/important_features.jpg)
 
