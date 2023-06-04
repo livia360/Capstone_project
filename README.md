@@ -1,7 +1,7 @@
 
-Predict customers' response to the marketing champaign :earth_americas:
+:department_store:  Predict customers' response to the marketing champaign :earth_americas:
 ======================================================
- :department_store: 
+ 
 <img src="./images/shopping.jpg" alt="Customer" width="300" height="200"/> <br/>
 
 # 1. Introduction
